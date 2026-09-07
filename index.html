@@ -6,7 +6,56 @@
     <link rel="stylesheet" href="./main.css" />
     <title>Quiz Application</title>
   </head>
+
   <body>
+    <div class="quiz-app">
+      <div class="quiz-info">
+        <div class="category">Category:<span>Html</span></div>
+        <div class="question-count">Question Count <span>10</span></div>
+      </div>
+      <div class="question-area">
+        <h2 class="question-title">What does HTML stand for?</h2>
+        <div class="answers-area">
+          <div class="answer">
+            <input type="radio" id="A" name="question" checked />
+            <label for="A">Hyper Text Markup Language</label>
+          </div>
+          <div class="answer">
+            <input type="radio" id="B" name="question" />
+            <label for="B">High Text Machine Language</label>
+          </div>
+          <div class="answer">
+            <input type="radio" id="C" name="question" />
+            <label for="C">Hyperlink Text Management Language</label>
+          </div>
+          <div class="answer">
+            <input type="radio" id="D" name="question" />
+            <label for="D">Home Tool Markup Language</label>
+          </div>
+        </div>
+      </div>
+      <button class="Submit-Btn">Submit Answer</button>
+      <div class="bullets">
+        <div class="spans">
+          <span class="on"></span>
+          <span></span>
+          <span></span>
+          <span></span>
+          <span></span>
+          <span></span>
+          <span></span>
+          <span></span>
+          <span></span>
+          <span></span>
+        </div>
+        <div class="countdwon">
+          <span class="minutes">02</span>: <span class="seconds">55</span>
+        </div>
+      </div>
+      <div class="result-quiz">
+        <span>Prefect</span> Your Answered <span>10</span> from <span>10</span>
+      </div>
+    </div>
     <script src="./main.js"></script>
   </body>
 </html>
