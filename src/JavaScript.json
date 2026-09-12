@@ -1,0 +1,152 @@
+[
+  {
+    "question": "What is JavaScript?",
+    "options": {
+      "answers-1": "A programming language",
+      "answers-2": "A markup language",
+      "answers-3": "A database",
+      "answers-4": "A CSS framework"
+    },
+    "correctAnswer": "A programming language"
+  },
+  {
+    "question": "Which keyword is used to declare a variable?",
+    "options": {
+      "answers-1": "variable",
+      "answers-2": "var",
+      "answers-3": "define",
+      "answers-4": "declare"
+    },
+    "correctAnswer": "var"
+  },
+  {
+    "question": "Which keyword is used to declare a variable that can be reassigned?",
+    "options": {
+      "answers-1": "let",
+      "answers-2": "const",
+      "answers-3": "fixed",
+      "answers-4": "define"
+    },
+    "correctAnswer": "let"
+  },
+  {
+    "question": "Which keyword is used to declare a constant?",
+    "options": {
+      "answers-1": "var",
+      "answers-2": "let",
+      "answers-3": "const",
+      "answers-4": "constant"
+    },
+    "correctAnswer": "const"
+  },
+  {
+    "question": "Which method is used to print a message in the console?",
+    "options": {
+      "answers-1": "console.print()",
+      "answers-2": "console.write()",
+      "answers-3": "console.log()",
+      "answers-4": "print.console()"
+    },
+    "correctAnswer": "console.log()"
+  },
+  {
+    "question": "Which operator is used for strict equality?",
+    "options": {
+      "answers-1": "=",
+      "answers-2": "==",
+      "answers-3": "===",
+      "answers-4": "!="
+    },
+    "correctAnswer": "==="
+  },
+  {
+    "question": "Which operator is used to assign a value?",
+    "options": {
+      "answers-1": "=",
+      "answers-2": "==",
+      "answers-3": "===",
+      "answers-4": "=>"
+    },
+    "correctAnswer": "="
+  },
+  {
+    "question": "Which data type represents true or false?",
+    "options": {
+      "answers-1": "String",
+      "answers-2": "Number",
+      "answers-3": "Boolean",
+      "answers-4": "Object"
+    },
+    "correctAnswer": "Boolean"
+  },
+  {
+    "question": "Which data type is used to store text?",
+    "options": {
+      "answers-1": "String",
+      "answers-2": "Number",
+      "answers-3": "Boolean",
+      "answers-4": "Array"
+    },
+    "correctAnswer": "String"
+  },
+  {
+    "question": "Which data type is used to store numbers?",
+    "options": {
+      "answers-1": "String",
+      "answers-2": "Number",
+      "answers-3": "Boolean",
+      "answers-4": "Object"
+    },
+    "correctAnswer": "Number"
+  },
+  {
+    "question": "Which symbol is used to create an array?",
+    "options": {
+      "answers-1": "{}",
+      "answers-2": "()",
+      "answers-3": "[]",
+      "answers-4": "<>"
+    },
+    "correctAnswer": "[]"
+  },
+  {
+    "question": "Which method adds an element to the end of an array?",
+    "options": {
+      "answers-1": "push()",
+      "answers-2": "pop()",
+      "answers-3": "add()",
+      "answers-4": "append()"
+    },
+    "correctAnswer": "push()"
+  },
+  {
+    "question": "Which method removes the last element from an array?",
+    "options": {
+      "answers-1": "remove()",
+      "answers-2": "delete()",
+      "answers-3": "pop()",
+      "answers-4": "shift()"
+    },
+    "correctAnswer": "pop()"
+  },
+  {
+    "question": "Which keyword is used to define a function?",
+    "options": {
+      "answers-1": "function",
+      "answers-2": "func",
+      "answers-3": "define",
+      "answers-4": "method"
+    },
+    "correctAnswer": "function"
+  },
+  {
+    "question": "Which method is used to select an element by its ID?",
+    "options": {
+      "answers-1": "document.query()",
+      "answers-2": "document.getElementById()",
+      "answers-3": "document.getId()",
+      "answers-4": "document.selectId()"
+    },
+    "correctAnswer": "document.getElementById()"
+  }
+]

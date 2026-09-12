@@ -1,0 +1,152 @@
+[
+  {
+    "question": "What does CSS stand for?",
+    "options": {
+      "answers-1": "Computer Style Sheets",
+      "answers-2": "Cascading Style Sheets",
+      "answers-3": "Creative Style Sheets",
+      "answers-4": "Colorful Style Sheets"
+    },
+    "correctAnswer": "Cascading Style Sheets"
+  },
+  {
+    "question": "Which CSS property is used to change the text color?",
+    "options": {
+      "answers-1": "font-color",
+      "answers-2": "text-color",
+      "answers-3": "color",
+      "answers-4": "text-style"
+    },
+    "correctAnswer": "color"
+  },
+  {
+    "question": "Which CSS property is used to change the background color?",
+    "options": {
+      "answers-1": "background-color",
+      "answers-2": "bg-color",
+      "answers-3": "background-style",
+      "answers-4": "color-background"
+    },
+    "correctAnswer": "background-color"
+  },
+  {
+    "question": "Which CSS property is used to change the font size?",
+    "options": {
+      "answers-1": "text-size",
+      "answers-2": "font-size",
+      "answers-3": "font-style",
+      "answers-4": "size"
+    },
+    "correctAnswer": "font-size"
+  },
+  {
+    "question": "Which CSS property is used to make text bold?",
+    "options": {
+      "answers-1": "font-weight",
+      "answers-2": "text-bold",
+      "answers-3": "font-bold",
+      "answers-4": "text-weight"
+    },
+    "correctAnswer": "font-weight"
+  },
+  {
+    "question": "Which CSS property is used to align text?",
+    "options": {
+      "answers-1": "text-align",
+      "answers-2": "align-text",
+      "answers-3": "text-position",
+      "answers-4": "align"
+    },
+    "correctAnswer": "text-align"
+  },
+  {
+    "question": "Which CSS property is used to add space inside an element?",
+    "options": {
+      "answers-1": "margin",
+      "answers-2": "padding",
+      "answers-3": "spacing",
+      "answers-4": "inside-space"
+    },
+    "correctAnswer": "padding"
+  },
+  {
+    "question": "Which CSS property is used to add space outside an element?",
+    "options": {
+      "answers-1": "padding",
+      "answers-2": "margin",
+      "answers-3": "spacing",
+      "answers-4": "outside-space"
+    },
+    "correctAnswer": "margin"
+  },
+  {
+    "question": "Which CSS property is used to add a border around an element?",
+    "options": {
+      "answers-1": "outline",
+      "answers-2": "border",
+      "answers-3": "box-border",
+      "answers-4": "element-border"
+    },
+    "correctAnswer": "border"
+  },
+  {
+    "question": "Which CSS property is used to change the width of an element?",
+    "options": {
+      "answers-1": "size",
+      "answers-2": "element-width",
+      "answers-3": "width",
+      "answers-4": "box-width"
+    },
+    "correctAnswer": "width"
+  },
+  {
+    "question": "Which CSS property is used to change the height of an element?",
+    "options": {
+      "answers-1": "height",
+      "answers-2": "element-height",
+      "answers-3": "size-height",
+      "answers-4": "box-height"
+    },
+    "correctAnswer": "height"
+  },
+  {
+    "question": "Which selector is used to select an element by its class?",
+    "options": {
+      "answers-1": "#",
+      "answers-2": ".",
+      "answers-3": "*",
+      "answers-4": "@"
+    },
+    "correctAnswer": "."
+  },
+  {
+    "question": "Which selector is used to select an element by its ID?",
+    "options": {
+      "answers-1": ".",
+      "answers-2": "*",
+      "answers-3": "#",
+      "answers-4": "@"
+    },
+    "correctAnswer": "#"
+  },
+  {
+    "question": "Which CSS property is used to make an element a flex container?",
+    "options": {
+      "answers-1": "display: flex",
+      "answers-2": "position: flex",
+      "answers-3": "flex: display",
+      "answers-4": "display: block"
+    },
+    "correctAnswer": "display: flex"
+  },
+  {
+    "question": "Which CSS property is used to change the font family?",
+    "options": {
+      "answers-1": "font-family",
+      "answers-2": "text-family",
+      "answers-3": "font-type",
+      "answers-4": "family"
+    },
+    "correctAnswer": "font-family"
+  }
+]

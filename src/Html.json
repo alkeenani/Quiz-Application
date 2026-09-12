@@ -1,0 +1,152 @@
+[
+  {
+    "question": "What does HTML stand for?",
+    "options": {
+      "answers-1": "Hyper Text Markup Language",
+      "answers-2": "High Text Machine Language",
+      "answers-3": "Hyperlink Text Management Language",
+      "answers-4": "Home Tool Markup Language"
+    },
+    "correctAnswer": "Hyper Text Markup Language"
+  },
+  {
+    "question": "Which tag is used to create the largest heading?",
+    "options": {
+      "answers-1": "<h6>",
+      "answers-2": "<heading>",
+      "answers-3": "<h1>",
+      "answers-4": "<head>"
+    },
+    "correctAnswer": "<h1>"
+  },
+  {
+    "question": "Which HTML tag is used to create a paragraph?",
+    "options": {
+      "answers-1": "<p>",
+      "answers-2": "<para>",
+      "answers-3": "<paragraph>",
+      "answers-4": "<text>"
+    },
+    "correctAnswer": "<p>"
+  },
+  {
+    "question": "Which tag is used to create a hyperlink?",
+    "options": {
+      "answers-1": "<link>",
+      "answers-2": "<a>",
+      "answers-3": "<href>",
+      "answers-4": "<url>"
+    },
+    "correctAnswer": "<a>"
+  },
+  {
+    "question": "Which attribute specifies the destination of a link?",
+    "options": {
+      "answers-1": "src",
+      "answers-2": "link",
+      "answers-3": "href",
+      "answers-4": "target"
+    },
+    "correctAnswer": "href"
+  },
+  {
+    "question": "Which tag is used to insert an image?",
+    "options": {
+      "answers-1": "<picture>",
+      "answers-2": "<image>",
+      "answers-3": "<img>",
+      "answers-4": "<src>"
+    },
+    "correctAnswer": "<img>"
+  },
+  {
+    "question": "Which attribute is used to specify the image path?",
+    "options": {
+      "answers-1": "href",
+      "answers-2": "src",
+      "answers-3": "path",
+      "answers-4": "link"
+    },
+    "correctAnswer": "src"
+  },
+  {
+    "question": "Which tag is used to create an unordered list?",
+    "options": {
+      "answers-1": "<ol>",
+      "answers-2": "<list>",
+      "answers-3": "<ul>",
+      "answers-4": "<li>"
+    },
+    "correctAnswer": "<ul>"
+  },
+  {
+    "question": "Which tag is used to create a table row?",
+    "options": {
+      "answers-1": "<td>",
+      "answers-2": "<tr>",
+      "answers-3": "<th>",
+      "answers-4": "<row>"
+    },
+    "correctAnswer": "<tr>"
+  },
+  {
+    "question": "Which HTML element is used to collect user input?",
+    "options": {
+      "answers-1": "<input>",
+      "answers-2": "<form>",
+      "answers-3": "<data>",
+      "answers-4": "<user>"
+    },
+    "correctAnswer": "<form>"
+  },
+  {
+    "question": "Which input type is used for a password?",
+    "options": {
+      "answers-1": "type=\"text\"",
+      "answers-2": "type=\"hidden\"",
+      "answers-3": "type=\"password\"",
+      "answers-4": "type=\"secure\""
+    },
+    "correctAnswer": "type=\"password\""
+  },
+  {
+    "question": "Which tag is used to define the title of an HTML document?",
+    "options": {
+      "answers-1": "<meta>",
+      "answers-2": "<title>",
+      "answers-3": "<head>",
+      "answers-4": "<name>"
+    },
+    "correctAnswer": "<title>"
+  },
+  {
+    "question": "Which tag is used to create a line break?",
+    "options": {
+      "answers-1": "<break>",
+      "answers-2": "<lb>",
+      "answers-3": "<br>",
+      "answers-4": "<line>"
+    },
+    "correctAnswer": "<br>"
+  },
+  {
+    "question": "Which HTML tag is used to create a button?",
+    "options": {
+      "answers-1": "<btn>",
+      "answers-2": "<button>",
+      "answers-3": "<input-button>",
+      "answers-4": "<click>"
+    },
+    "correctAnswer": "<button>"
+  },
+  {
+    "question": "Which tag is used to define important text?",
+    "options": {
+      "answers-1": "<important>",
+      "answers-2": "<strong>",
+      "answers-3": "<bold>",
+      "answers-4": "<bolder>"
+    },
+    "correctAnswer": "<strong>"
+  }
+]

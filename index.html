@@ -8,54 +8,63 @@
   </head>
 
   <body>
+    <!--? Quiz App Container -->
     <div class="quiz-app">
+      <!--? Quiz Info (Category And Question Count) -->
       <div class="quiz-info">
-        <div class="category">Category:<span>Html</span></div>
-        <div class="question-count">Question Count <span>10</span></div>
+        <div class="category">Category:<span></span></div>
+        <div class="question-count">Question Count : <span></span></div>
       </div>
+      <!--? Question Area (Title And Answers) -->
       <div class="question-area">
-        <h2 class="question-title">What does HTML stand for?</h2>
+        <h2 class="question-title"></h2>
+        <!--? Answers Area -->
         <div class="answers-area">
           <div class="answer">
             <input type="radio" id="A" name="question" checked />
-            <label for="A">Hyper Text Markup Language</label>
+            <label for="A"></label>
           </div>
           <div class="answer">
             <input type="radio" id="B" name="question" />
-            <label for="B">High Text Machine Language</label>
+            <label for="B"></label>
           </div>
           <div class="answer">
             <input type="radio" id="C" name="question" />
-            <label for="C">Hyperlink Text Management Language</label>
+            <label for="C"></label>
           </div>
           <div class="answer">
             <input type="radio" id="D" name="question" />
-            <label for="D">Home Tool Markup Language</label>
+            <label for="D"></label>
           </div>
         </div>
       </div>
-      <button class="Submit-Btn">Submit Answer</button>
+      <!--? Submit Answer Button -->
+      <button class="submit-btn">Submit Answer</button>
+      <!--? Bullets And Countdown Timer -->
       <div class="bullets">
-        <div class="spans">
-          <span class="on"></span>
-          <span></span>
-          <span></span>
-          <span></span>
-          <span></span>
-          <span></span>
-          <span></span>
-          <span></span>
-          <span></span>
-          <span></span>
-        </div>
-        <div class="countdwon">
-          <span class="minutes">02</span>: <span class="seconds">55</span>
-        </div>
+        <div class="bullets-track"></div>
+        <div class="countdown-timer"></div>
       </div>
-      <div class="result-quiz">
-        <span>Prefect</span> Your Answered <span>10</span> from <span>10</span>
-      </div>
+      <!--? Result Quiz -->
+      <div class="result-quiz"></div>
     </div>
+    <!--? Welcome Message -->
+    <div class="welcome">
+      <h1>Welcome</h1>
+      <p>
+        Test Your Knowledge With Our Quiz. Choose A Category Below To Start, You
+        Will Get 10 Random Questions And A Countdown Timer For Each One.
+      </p>
+    </div>
+    <!--? Choose Question Category -->
+    <select id="question-Categories">
+      <option value="" selected disabled>Choose Category</option>
+
+      <option value="Html">Html</option>
+      <option value="Css">Css</option>
+      <option value="JavaScript">JavaScript</option>
+    </select>
+
     <script src="./main.js"></script>
   </body>
 </html>
